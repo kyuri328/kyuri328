@@ -16,8 +16,19 @@ My experiences help create cities that prioritize safe and enjoyable active tran
 
 </br>
 
-## Projects
->
+## Projects at the Transportation Research and Education Center at Portland State University
+> **Bike/Ped Portal Case Study: Where do Bike/Ped Crashes Occur?**
+- Please try the GitHub repository link and find my HTML file: https://github.com/kyuri328/TREC_public
+> **NCHRP 07-31 Project: State DOT and Tribal Use of Active Transportation Data: Practices, Sources, Needs, and Gaps**
+ 
+> **TriMet Division Street Transit Project: FX2 Shared Bicycle & Pedestrian Platform Evaluation**
+
+> **Evaluation of Different Curb Extension Treatments for Pedestrian Comfort and Safety at Intersections**
+
+> **Active Transportation Return on Investment Project**
+- Please try the link to read the report: https://trec.pdx.edu/research/project/1543/Active_Transportation_Return_on_Investment_Study
+> **NCHRP 20-123(02) Research Roadmap for the AASHTO Council on Active Transportation**
+- Please try the link to read the report: https://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4808
 
 </br>
 
