@@ -16,7 +16,8 @@ My experiences help create cities that prioritize safe and enjoyable active tran
 
 </br>
 
-## Projects at the Transportation Research and Education Center at Portland State University
+## Projects
+### Transportation Research and Education Center (TREC) at Portland State University (PSU)
 > **Bike/Ped Portal Case Study: Where do Bike/Ped Crashes Occur?**
 - Please try the GitHub repository link and find my HTML file: https://github.com/kyuri328/TREC_public
 > **NCHRP 07-31 Project: State DOT and Tribal Use of Active Transportation Data: Practices, Sources, Needs, and Gaps**
